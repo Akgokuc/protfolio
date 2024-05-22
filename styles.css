@@ -3,7 +3,7 @@ body {
   font-size: 14px;
   margin: 0;
   padding: 0;
-  background-image:url(background_1.jpg) ; /* background color for the whole page */
+  background-image:url(./Images/background_1.jpg) ; /* background color for the whole page */
   background-size: cover;
 
   }
